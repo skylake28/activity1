@@ -1,5 +1,8 @@
 
-
+.navbar{
+    padding-left: 100px;
+    padding-right: 100px;
+}
 
 .navbar-brand img{
     max-width: 200px;
